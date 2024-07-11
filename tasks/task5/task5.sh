@@ -12,7 +12,7 @@ if [ ! -z "$git_status" ]; then
     read -p "enter the commit message : " r1
     git commit -m "$r1"
     git push origin main
-    echo "Changes have been pushed to the remote repository."
+    echo "Changes pushed to remote repository."
 else
-    echo "No changes to commit."
+    echo "No commit."
 fi
