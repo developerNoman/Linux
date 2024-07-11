@@ -1,0 +1,6 @@
+/home/noman/work/work1/mydegree.txt:1:I am a software Engineer
+/home/noman/work/work1/mydegree.txt:2:I am Noman Shafique
+/home/noman/work/work1/mydegree.txt:6:I am passionate
+/home/noman/work/work1/mydegree.txt:7:I am Developer
+/home/noman/work/work1/myself.txt:1:I am Noman Shafique
+/home/noman/work/work1/myself.txt:5:I am passionate

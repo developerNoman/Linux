@@ -1,0 +1,4 @@
+Linux 5.19.0-32-generic (noman-Victus-by-HP-Gaming-Laptop-15-fa0xxx) 	07/08/2024 	_x86_64_	(12 CPU)
+
+04:43:53 PM  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+04:43:53 PM  all    3.62    0.01    2.00    0.17    0.00    0.04    0.00    0.00    0.00   94.15
