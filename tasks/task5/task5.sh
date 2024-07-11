@@ -12,7 +12,6 @@
 
 
 #!/bin/bash
-cd /Linux/task/task5
 read -p "Please Enter Path:" $r1
  git add .
 git commit -m "updating the remote repo"
