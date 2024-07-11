@@ -9,7 +9,7 @@ if [ ! -z "$git_status" ]; then
     do
         git add "$file"
     done
-    read -p "enter the commit message" r1
+    read -p "enter the commit message : " r1
     git commit -m "$r1"
     git push origin main
     echo "Changes have been pushed to the remote repository."
