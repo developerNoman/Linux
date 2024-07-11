@@ -2,9 +2,12 @@
 
 # read -p "Enter the Path: " r1
 # cd "$r1" || exit
-read -p "Enter the file to update: " r2
+# git status
+
 git_status=$(git status --porcelain)
 
+echo "$git_status"
+read -p "Enter the file to update: " r2
 # If there are changes, add, commit, and push
 if [ ! -z "$git_status" ]; then
 git add "$r2"
