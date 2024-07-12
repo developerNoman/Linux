@@ -18,7 +18,6 @@ else
   echo "The file '$INPUT_FILE' is not readable or does not exist."
 fi
 
-
 echo -e "First Name\tLast Name\tEmail\tPhone Number\tDomain\tFull Name" > "$OUTPUT_FILE"
 
 format_phone() {
