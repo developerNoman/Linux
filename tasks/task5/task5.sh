@@ -13,6 +13,7 @@ if [ ! -z "$git_status" ]; then
     git commit -m "$r1"
     git push origin main
     echo "Changes pushed to remote repository."
+    
 else
     echo "No commit."
 fi
