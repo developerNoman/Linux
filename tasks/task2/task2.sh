@@ -1,5 +1,5 @@
 #!/bin/bash
-source="/home/noman/work/work1/"
+read -p "Enter the source path: " source
 key="am"
 result="result.txt"
 
